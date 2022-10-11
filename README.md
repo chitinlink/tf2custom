@@ -1,7 +1,7 @@
 tf2-backup
 ==========
 
-This is a backup of my custom files for TF2. Last updated October 2021 (mastercomfig 9.6.3)
+This is a backup of my custom files for TF2. Last updated October 2022 (mastercomfig 9.10.1)
 
 ## Installation
 
@@ -33,7 +33,6 @@ These files all go in `Team Fortress 2/tf/custom`.
 |                              | Source                      | Description
 | :-:                          | :-:                         | :-
 | A Simple Critical Hit Effect | [Gamebanana][source-crit]   | Changes the critical hit text from "CRITICAL HIT!!!" to "CRIT!"
-| TF2 Ultimate Visual Fix Pack | [Github][source-uvisfix]    | What it says on the tin, check the source for more info.
 | Bucket Lightwarp             | [Gamebanana][source-bucket] | This is my favorite lightwarp for TF2.
 
 ## Credits
@@ -53,9 +52,9 @@ These files all go in `Team Fortress 2/tf/custom`.
 
 If you use anything mine and post it elsewhere, a simple link to this page is enough credit.
 
-[mastercomfig]:              https://docs.mastercomfig.com/9.6.3/setup/install/
-[mastercomfig-clean]:        https://docs.mastercomfig.com/9.6.3/setup/clean_up/
-[mastercomfig-optimization]: https://docs.mastercomfig.com/9.6.3/os/
+[mastercomfig]:              https://docs.mastercomfig.com/latest/setup/install/
+[mastercomfig-clean]:        https://docs.mastercomfig.com/latest/setup/clean_up/
+[mastercomfig-optimization]: https://docs.mastercomfig.com/latest/os/
 
 [source-nosmoke]:            http://www.teamfortress.tv/25647/no-explosion-smoke-script
 [source-bucket]:             https://gamebanana.com/skins/145214
