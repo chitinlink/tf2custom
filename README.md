@@ -1,7 +1,7 @@
 tf2-backup
 ==========
 
-This is a backup of my custom files for TF2. Last updated October 2022 (mastercomfig 9.10.1)
+This is a backup of my custom files for TF2. Last updated November 2023 (mastercomfig 9.10.2)
 
 ## Installation
 
