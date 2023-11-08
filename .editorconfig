@@ -12,4 +12,4 @@ trim_trailing_whitespace = true
 trim_trailing_whitespace = false
 
 [*.cfg]
-end_of_line              = crlf
+end_of_line              = lf
