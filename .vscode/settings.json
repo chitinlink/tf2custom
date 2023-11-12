@@ -1,0 +1,6 @@
+{
+  "files.exclude": {
+    "**/*.sound.cache": true,
+    "**/sound.cache": true,
+  }
+}
