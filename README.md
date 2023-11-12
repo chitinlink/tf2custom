@@ -34,6 +34,8 @@ These files all go in `Team Fortress 2/tf/custom`.
 | :-:                          | :-:                         | :-
 | A Simple Critical Hit Effect | [Gamebanana][source-crit]   | Changes the critical hit text from "CRITICAL HIT!!!" to "CRIT!"
 | Bucket Lightwarp             | [Gamebanana][source-bucket] | This is my favorite lightwarp for TF2.
+| Dragon's Fury Fix            | [Gamebanana][source-dragon] | Fixes the Dragon's Fury to not flashbang you as bad
+| Conscientious Objector Fix   | [Gamebanana][source-sign]   | Fixes
 
 ## Credits
 
@@ -61,7 +63,8 @@ If you use anything mine and post it elsewhesre, a simple link to this page is e
 [source-bucket]:              https://gamebanana.com/skins/145214
 [source-crit]:                https://gamebanana.com/effects/4759
 [source-crosshairs]:          https://cfg.tf/tools/crosshairs/
-[source-uvisfix]:             https://github.com/agrastiOs/Ultimate-TF2-Visual-Fix-Pack
+[source-dragon]:              https://gamebanana.com/mods/465014
+[source-sign]:                https://gamebanana.com/mods/426147
 
 [credits-tf2wiki]:            https://wiki.teamfortress.com/
 [credits-tf2wiki-scripting]:  https://wiki.teamfortress.com/wiki/Scripting

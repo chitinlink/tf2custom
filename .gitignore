@@ -11,7 +11,8 @@ my_maps/maps/*.bsp
 my_maps/maps/*.nav
 
 # External files
-crit.vpk
-TF2UltimateVisualFix.vpk
-bucket_lightwarp.vpk
 *hud/
+crit.vpk
+bucket_lightwarp.vpk
+dragons_fury_fix.vpk
+objector_fix.vpk
