@@ -19,14 +19,14 @@ These files all go in `Team Fortress 2/tf/custom`.
 
 ## Files
 
-|                 | Source                                       | Description
-| :-:             | :-:                                          | :-
-| `configs`       | Me                                           | TF2 configuration files authored by me. Note that I [use mastercomfig][mastercomfig-customization].
-| `hitsound`      | Me                                           | My hit/kill sounds. Check the [folder](/hitsound/sound/ui/) for info
-| `my_maps`       | Me                                           | This is where I keep important maps. Check the [readme](/my_maps/maps) for more information.
-| `nullsound.vpk` | Me                                           | Adds a file named `null.wav` to `sound/vo/`, fixing an annoying error message in tr_walkway_rc2
+|                                   | Source                                       | Description
+| :-:                               | :-:                                          | :-
+| [`configs`](/config/cfg/)         | Me                                           | TF2 configuration files authored by me. Note that I [use mastercomfig][mastercomfig-customization].
+| [`hitsound`](/hitsound/sound/ui/) | Me                                           | My hit/kill sounds. Check the [folder](/hitsound/sound/ui/) for info
+| [`my_maps`](/my_maps/maps/)       | Me                                           | This is where I keep important maps. Check the [readme](/my_maps/maps) for more information.
+| `nosmoke.vpk`                     | [Teamfortress.tv][source-nosmoke] (original) | Switches the rocket explosion effect to the sapper destruction effect for less clutter. Does not work with the Cow Mangler.
 | `crosshairs`    | [CFG.tf][source-crosshairs]                  | Weapon-specific crosshairs.
-| `nosmoke.vpk`   | [Teamfortress.tv][source-nosmoke] (original) | Switches the rocket explosion effect to the sapper destruction effect for less clutter. Does not work with the Cow Mangler.
+| `nullsound.vpk` | Me                                           | Adds a file named `null.wav` to `sound/vo/`, fixing an annoying error message in tr_walkway_rc2
 
 ## External files 
 
@@ -35,7 +35,7 @@ These files all go in `Team Fortress 2/tf/custom`.
 | A Simple Critical Hit Effect | [Gamebanana][source-crit]   | Changes the critical hit text from "CRITICAL HIT!!!" to "CRIT!"
 | Bucket Lightwarp             | [Gamebanana][source-bucket] | This is my favorite lightwarp for TF2.
 | Dragon's Fury Fix            | [Gamebanana][source-dragon] | Fixes the Dragon's Fury to not flashbang you as bad
-| Conscientious Objector Fix   | [Gamebanana][source-sign]   | Fixes
+| Conscientious Objector Fix   | [Gamebanana][source-sign]   | Fixes the sign to be easier to see. 
 
 ## Credits
 
