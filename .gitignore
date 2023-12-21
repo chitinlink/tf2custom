@@ -12,7 +12,4 @@ my_maps/maps/*.nav
 
 # External files
 *hud/
-crit.vpk
-bucket_lightwarp.vpk
-dragons_fury_fix.vpk
-objector_fix.vpk
+ext_*
