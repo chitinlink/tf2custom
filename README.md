@@ -30,11 +30,20 @@ These files all go in `Team Fortress 2/tf/custom`.
 
 ## External files 
 
+Some of these are more important than the others, as you can probably guess.
+
 |                              | Source                       | Description
 | :-:                          | :-:                          | :-
 | A Simple Critical Hit Effect | [Gamebanana][source-crit]    | Changes the critical hit text from "CRITICAL HIT!!!" to "CRIT!"
 | Bucket Lightwarp             | [Gamebanana][source-bucket]  | This is my favorite lightwarp for TF2.
 | Conscientious Objector Fix   | [Gamebanana][source-sign]    | Fixes the sign to be easier to see.
+| Team Colored Blueprints      | [Gamebanana][source-bp]      | Colors Engineer blueprints according to your team color. |
+| Halloween Festive Sapper     | [Gamebanana][source-sapper]  | Halloween-themed skin for the Festive Sapper. |
+| Plunger over Sun-on-a-Stick  | [Gamebanana][source-plunger] | Plunger skin for the Sun-on-a-Stick. |
+| Nintendo DS over PDA         | [Gamebanana][source-dspda]   | Nintendo DS skin for the PDA. |
+| Blunt over Concheror         | [Gamebanana][source-weed]    | Makes the Concheror horn into a weed blunt. |
+| Tara                | [Gamebanana][source-tara]    | Replaces most miniguns with Twilight Sparkle. |
+| Quake axe over Escape Plan   | [Gamebanana][source-qaxe]    | Quake 1 Axe skin for the Escape Plan. |  
 
 ## Credits
 
@@ -58,12 +67,18 @@ If you use anything mine and post it elsewhesre, a simple link to this page is e
 [mastercomfig-optimization]:  https://docs.mastercomfig.com/latest/os/
 [mastercomfig-customization]: https://docs.mastercomfig.com/latest/customization/custom_configs/
 
+[source-crosshairs]:          https://cfg.tf/tools/crosshairs/
 [source-nosmoke]:             http://www.teamfortress.tv/25647/no-explosion-smoke-script
 [source-bucket]:              https://gamebanana.com/skins/145214
 [source-crit]:                https://gamebanana.com/effects/4759
-[source-crosshairs]:          https://cfg.tf/tools/crosshairs/
-[source-dragon]:              https://gamebanana.com/mods/465014
 [source-sign]:                https://gamebanana.com/mods/426147
+[source-bp]:                  https://gamebanana.com/mods/434750
+[source-sapper]:              https://gamebanana.com/mods/403966
+[source-plunger]:             https://gamebanana.com/mods/317015
+[source-dspda]:               https://gamebanana.com/mods/479185
+[source-weed]:                https://gamebanana.com/mods/475545
+[source-tara]:                https://gamebanana.com/mods/404105
+[source-qaxe]:                https://gamebanana.com/mods/205029
 
 [credits-tf2wiki]:            https://wiki.teamfortress.com/
 [credits-tf2wiki-scripting]:  https://wiki.teamfortress.com/wiki/Scripting
