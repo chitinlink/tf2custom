@@ -30,12 +30,11 @@ These files all go in `Team Fortress 2/tf/custom`.
 
 ## External files 
 
-|                              | Source                      | Description
-| :-:                          | :-:                         | :-
-| A Simple Critical Hit Effect | [Gamebanana][source-crit]   | Changes the critical hit text from "CRITICAL HIT!!!" to "CRIT!"
-| Bucket Lightwarp             | [Gamebanana][source-bucket] | This is my favorite lightwarp for TF2.
-| Dragon's Fury Fix            | [Gamebanana][source-dragon] | Fixes the Dragon's Fury to not flashbang you as bad
-| Conscientious Objector Fix   | [Gamebanana][source-sign]   | Fixes the sign to be easier to see. 
+|                              | Source                       | Description
+| :-:                          | :-:                          | :-
+| A Simple Critical Hit Effect | [Gamebanana][source-crit]    | Changes the critical hit text from "CRITICAL HIT!!!" to "CRIT!"
+| Bucket Lightwarp             | [Gamebanana][source-bucket]  | This is my favorite lightwarp for TF2.
+| Conscientious Objector Fix   | [Gamebanana][source-sign]    | Fixes the sign to be easier to see.
 
 ## Credits
 
