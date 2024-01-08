@@ -1,7 +1,7 @@
-tf2-backup
-==========
+TF2 Custom Files Backup
+=======================
 
-This is a backup of my custom files for TF2. Last updated November 2023 (mastercomfig 9.10.2)
+This is a backup and file history of my custom files for TF2.
 
 ## Installation
 
@@ -25,8 +25,8 @@ These files all go in `Team Fortress 2/tf/custom`.
 | [`hitsound`](/hitsound/sound/ui/) | Me                                           | My hit/kill sounds. Check the [folder](/hitsound/sound/ui/) for info
 | [`my_maps`](/my_maps/maps/)       | Me                                           | This is where I keep important maps. Check the [readme](/my_maps/maps) for more information.
 | `nosmoke.vpk`                     | [Teamfortress.tv][source-nosmoke] (original) | Switches the rocket explosion effect to the sapper destruction effect for less clutter. Does not work with the Cow Mangler.
-| `crosshairs`    | [CFG.tf][source-crosshairs]                  | Weapon-specific crosshairs.
-| `nullsound.vpk` | Me                                           | Adds a file named `null.wav` to `sound/vo/`, fixing an annoying error message in tr_walkway_rc2
+| `crosshairs`                      | [CFG.tf][source-crosshairs]                  | Weapon-specific crosshairs.
+| `nullsound.vpk`                   | Me                                           | Adds a file named `null.wav` to `sound/vo/`, fixing an annoying error message in tr_walkway_rc2
 
 ## External files 
 
