@@ -34,22 +34,21 @@ Some of these are more important than the others, as you can probably guess.
 
 |                              | Source                       | Description
 | :-:                          | :-:                          | :-
-| A Simple Critical Hit Effect | [Gamebanana][source-crit]    | Changes the critical hit text from "CRITICAL HIT!!!" to "CRIT!"
 | Bucket Lightwarp             | [Gamebanana][source-bucket]  | This is my favorite lightwarp for TF2.
 | Conscientious Objector Fix   | [Gamebanana][source-sign]    | Fixes the sign to be easier to see.
-| Team Colored Blueprints      | [Gamebanana][source-bp]      | Colors Engineer blueprints according to your team color. |
-| Halloween Festive Sapper     | [Gamebanana][source-sapper]  | Halloween-themed skin for the Festive Sapper. |
-| Plunger over Sun-on-a-Stick  | [Gamebanana][source-plunger] | Plunger skin for the Sun-on-a-Stick. |
-| Nintendo DS over PDA         | [Gamebanana][source-dspda]   | Nintendo DS skin for the PDA. |
-| Blunt over Concheror         | [Gamebanana][source-weed]    | Makes the Concheror horn into a weed blunt. |
-| Tara                | [Gamebanana][source-tara]    | Replaces most miniguns with Twilight Sparkle. |
-| Quake axe over Escape Plan   | [Gamebanana][source-qaxe]    | Quake 1 Axe skin for the Escape Plan. |  
+| Team Colored Blueprints      | [Gamebanana][source-bp]      | Colors Engineer blueprints according to your team color.
+| Halloween Festive Sapper     | [Gamebanana][source-sapper]  | Halloween-themed skin for the Festive Sapper.
+| Plunger over Sun-on-a-Stick  | [Gamebanana][source-plunger] | Plunger skin for the Sun-on-a-Stick.
+| Nintendo DS over PDA         | [Gamebanana][source-dspda]   | Nintendo DS skin for the PDA.
+| Blunt over Concheror         | [Gamebanana][source-weed]    | Makes the Concheror horn into a weed blunt.
+| Tara                | [Gamebanana][source-tara]    | Replaces most miniguns with Twilight Sparkle.
+| Quake axe over Escape Plan   | [Gamebanana][source-qaxe]    | Quake 1 Axe skin for the Escape Plan.
 
 ## Credits
 
+* [mastercomfig][credits-mastercomfig]     — The performance config I use. Many many thanks for making this easier
 * [Team Fortress Wiki][credits-tf2wiki]    — [Scripting basics][credits-tf2wiki-scripting], and a lot of other useful information
 * [Valve Developer Community][credits-vdc] — a lot of technical information about TF2
-* [mastercomfig][credits-mastercomfig]     — The performance config I use. Many many thanks for making this easier
 * povohat                                  — [null-cancelling movement script][credits-nullcancel] <small>(Currently I use the mastercomfig VPK)</small>
 * Jamien                                   — [regen.cfg](configs/cfg/regen.cfg), originally posted [here][credits-regen]
 * Dr. Device                               — for the [auto-disguise script for spy][credits-autodisguise]
@@ -60,7 +59,7 @@ Some of these are more important than the others, as you can probably guess.
 
 ## Attribution
 
-If you use anything mine and post it elsewhesre, a simple link to this page is enough credit.
+If you use anything mine and post it elsewhere, a simple link to this page is enough credit.
 
 [mastercomfig]:               https://docs.mastercomfig.com/latest/setup/install/
 [mastercomfig-clean]:         https://docs.mastercomfig.com/latest/setup/clean_up/
@@ -69,8 +68,7 @@ If you use anything mine and post it elsewhesre, a simple link to this page is e
 
 [source-crosshairs]:          https://cfg.tf/tools/crosshairs/
 [source-nosmoke]:             http://www.teamfortress.tv/25647/no-explosion-smoke-script
-[source-bucket]:              https://gamebanana.com/skins/145214
-[source-crit]:                https://gamebanana.com/effects/4759
+[source-bucket]:              https://gamebanana.com/mods/205374
 [source-sign]:                https://gamebanana.com/mods/426147
 [source-bp]:                  https://gamebanana.com/mods/434750
 [source-sapper]:              https://gamebanana.com/mods/403966
