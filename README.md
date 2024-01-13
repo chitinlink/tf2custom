@@ -41,7 +41,7 @@ Some of these are more important than the others, as you can probably guess.
 | Plunger over Sun-on-a-Stick  | [Gamebanana][source-plunger] | Plunger skin for the Sun-on-a-Stick.
 | Nintendo DS over PDA         | [Gamebanana][source-dspda]   | Nintendo DS skin for the PDA.
 | Blunt over Concheror         | [Gamebanana][source-weed]    | Makes the Concheror horn into a weed blunt.
-| Tara                | [Gamebanana][source-tara]    | Replaces most miniguns with Twilight Sparkle.
+| Tara                         | [Gamebanana][source-tara]    | Replaces most miniguns with Twilight Sparkle.
 | Quake axe over Escape Plan   | [Gamebanana][source-qaxe]    | Quake 1 Axe skin for the Escape Plan.
 
 ## Credits
