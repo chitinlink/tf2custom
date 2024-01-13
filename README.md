@@ -19,16 +19,15 @@ These files all go in `Team Fortress 2/tf/custom`.
 
 ## Files
 
-|                                   | Source                                       | Description
-| :-:                               | :-:                                          | :-
-| [`configs`](/config/cfg/)         | Me                                           | TF2 configuration files authored by me. Note that I [use mastercomfig][mastercomfig-customization].
-| [`hitsound`](/hitsound/sound/ui/) | Me                                           | My hit/kill sounds. Check the [folder](/hitsound/sound/ui/) for info
-| [`my_maps`](/my_maps/maps/)       | Me                                           | This is where I keep important maps. Check the [readme](/my_maps/maps) for more information.
-| `nosmoke.vpk`                     | [Teamfortress.tv][source-nosmoke] (original) | Switches the rocket explosion effect to the sapper destruction effect for less clutter. Does not work with the Cow Mangler.
-| `crosshairs`                      | [CFG.tf][source-crosshairs]                  | Weapon-specific crosshairs.
-| `nullsound.vpk`                   | Me                                           | Adds a file named `null.wav` to `sound/vo/`, fixing an annoying error message in tr_walkway_rc2
+|                                   | Source                               | Description
+| :-:                               | :-:                                  | :-
+| [`configs`](/config/cfg/)         | Me                                   | TF2 configuration files authored by me. Note that I [use mastercomfig][mastercomfig-customization].
+| [`hitsound`](/hitsound/sound/ui/) | Me                                   | My hit/kill sounds. Check the [folder](/hitsound/sound/ui/) for info.
+| [`my_maps`](/my_maps/maps/)       | Me                                   | This is where I keep important maps. Check the [readme](/my_maps/maps) for more information.
+| `weapons`                         | [Mastercomfig][credits-mastercomfig] | Custom crosshairs, no shell ejection, no muzzle flash, no tracers, and reduced explosion effects.
+| `nullsound.vpk`                   | Me                                   | Adds a file named `null.wav` to `sound/vo/`, fixing an annoying error message in tr_walkway_rc2.
 
-## External files 
+## External files
 
 Some of these are more important than the others, as you can probably guess.
 
@@ -49,19 +48,20 @@ Some of these are more important than the others, as you can probably guess.
 * [mastercomfig][credits-mastercomfig]     — The performance config I use. Many many thanks for making this easier
 * [Team Fortress Wiki][credits-tf2wiki]    — [Scripting basics][credits-tf2wiki-scripting], and a lot of other useful information
 * [Valve Developer Community][credits-vdc] — a lot of technical information about TF2
+* [tftv forums][credits-tftv]              -- competitive and technical information about TF2, including the [no explosion smoke script][source-nosmoke]
 * povohat                                  — [null-cancelling movement script][credits-nullcancel] <small>(Currently I use the mastercomfig VPK)</small>
 * Jamien                                   — [regen.cfg](configs/cfg/regen.cfg), originally posted [here][credits-regen]
 * Dr. Device                               — for the [auto-disguise script for spy][credits-autodisguise]
 * CupOfTea/Rythyrix                        — for a bind that [activates uber ASAP][credits-instauber] on medic
 * NiteCyper                                — for the [panic button][credits-panic], a bind that spins you real fast
 * [Chris Down][credits-chrisdown]          — for his medic config which I have determined is the earliest example of the ["medic radar"][credits-chrisdown-radar]
-* Nem                                      — for [GCFScape][credits-gcfscape] ([Download][credits-gcfscape-dl]), which helps reveal files hidden away in TF2's .vpk package files
+* Nem                                      — for [GCFScape][credits-gcfscape], which helps reveal files hidden away in TF2's .vpk package files
 
 ## Attribution
 
 If you use anything mine and post it elsewhere, a simple link to this page is enough credit.
 
-[mastercomfig]:               https://docs.mastercomfig.com/latest/setup/install/
+[mastercomfig]:               https://docs.mastercomfig.com/latest/setup/install
 [mastercomfig-clean]:         https://docs.mastercomfig.com/latest/setup/clean_up/
 [mastercomfig-optimization]:  https://docs.mastercomfig.com/latest/os/
 [mastercomfig-customization]: https://docs.mastercomfig.com/latest/customization/custom_configs/
@@ -81,6 +81,7 @@ If you use anything mine and post it elsewhere, a simple link to this page is en
 [credits-tf2wiki]:            https://wiki.teamfortress.com/
 [credits-tf2wiki-scripting]:  https://wiki.teamfortress.com/wiki/Scripting
 [credits-vdc]:                https://developer.valvesoftware.com/
+[credits-tftv]:               https://www.teamfortress.tv/forums
 [credits-mastercomfig]:       https://mastercomfig.com
 [credits-nullcancel]:         https://web.archive.org/web/20191124005113/http://ozfortress.com/showpost.php?p=624355
 [credits-regen]:              https://web.archive.org/web/20130313024621/http://forums.tf2jump.com/index.php?topic=566.0
