@@ -24,7 +24,7 @@ These files all go in `Team Fortress 2/tf/custom`.
 | [`configs`](/config/cfg/)         | Me                                   | TF2 configuration files authored by me. Note that I [use mastercomfig][mastercomfig-customization].
 | [`hitsound`](/hitsound/sound/ui/) | Me                                   | My hit/kill sounds. Check the [folder](/hitsound/sound/ui/) for info.
 | [`my_maps`](/my_maps/maps/)       | Me                                   | This is where I keep important maps. Check the [readme](/my_maps/maps) for more information.
-| `weapons`                         | [Mastercomfig][credits-mastercomfig] | Custom crosshairs, no shell ejection, no muzzle flash, no tracers, and reduced explosion effects.
+| [`weapons`](/weapons/)            | [Mastercomfig][credits-mastercomfig] | Custom crosshairs, no shell ejection, no muzzle flash, no tracers, and reduced explosion effects.
 | `nullsound.vpk`                   | Me                                   | Adds a file named `null.wav` to `sound/vo/`, fixing an annoying error message in tr_walkway_rc2.
 
 ## External files
