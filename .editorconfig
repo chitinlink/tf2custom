@@ -11,5 +11,6 @@ trim_trailing_whitespace = true
 [*.md]
 trim_trailing_whitespace = false
 
-[*.cfg]
-end_of_line              = lf
+[{*.vdf,*.res,**/scripts/*.txt}]
+indent_size              = 4
+indent_style             = tab
