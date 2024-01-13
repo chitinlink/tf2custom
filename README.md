@@ -48,7 +48,7 @@ Some of these are more important than the others, as you can probably guess.
 * [mastercomfig][credits-mastercomfig]     — The performance config I use. Many many thanks for making this easier
 * [Team Fortress Wiki][credits-tf2wiki]    — [Scripting basics][credits-tf2wiki-scripting], and a lot of other useful information
 * [Valve Developer Community][credits-vdc] — a lot of technical information about TF2
-* [tftv forums][credits-tftv]              -- competitive and technical information about TF2, including the [no explosion smoke script][source-nosmoke]
+* [TFTV Forums][credits-tftv]              — competitive and technical information about TF2, including the [no explosion smoke script][source-nosmoke]
 * povohat                                  — [null-cancelling movement script][credits-nullcancel] <small>(Currently I use the mastercomfig VPK)</small>
 * Jamien                                   — [regen.cfg](configs/cfg/regen.cfg), originally posted [here][credits-regen]
 * Dr. Device                               — for the [auto-disguise script for spy][credits-autodisguise]
