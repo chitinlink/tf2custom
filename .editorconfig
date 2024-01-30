@@ -11,6 +11,6 @@ trim_trailing_whitespace = true
 [*.md]
 trim_trailing_whitespace = false
 
-[{*.vdf,*.res,**/scripts/*.txt}]
+[{*.vdf,*.vmt,*.res,**/scripts/*.txt}]
 indent_size              = 4
 indent_style             = tab
