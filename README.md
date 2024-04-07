@@ -16,6 +16,9 @@ These files all go in `Team Fortress 2/tf/custom`.
 3. Optionally follow the [mastercomfig OS optimization guide][mastercomfig-optimization]
 4. Download and extract this repo
 5. Download the files under ["External files"](#external-files)
+6. You're done. Install a hud maybe?
+    * [comfig huds](https://mastercomfig.com/huds/1/)
+    * [TF2Huds.dev](https://tf2huds.dev/)
 
 ## Files
 
@@ -33,10 +36,10 @@ Some of these are more important than the others, as you can probably guess.
 
 |                              | Source                       | Description
 | :-:                          | :-:                          | :-
-| Bucket Lightwarp             | [Gamebanana][source-bucket]  | This is my favorite lightwarp for TF2.
 | Conscientious Objector Fix   | [Gamebanana][source-sign]    | Fixes the sign to be easier to see.
 | Team Colored Blueprints      | [Gamebanana][source-bp]      | Colors Engineer blueprints according to your team color.
 | Halloween Festive Sapper     | [Gamebanana][source-sapper]  | Halloween-themed skin for the Festive Sapper.
+| Bucket Lightwarp             | [Gamebanana][source-bucket]  | This is my favorite lightwarp for TF2.
 | Plunger over Sun-on-a-Stick  | [Gamebanana][source-plunger] | Plunger skin for the Sun-on-a-Stick.
 | Nintendo DS over PDA         | [Gamebanana][source-dspda]   | Nintendo DS skin for the PDA.
 | Blunt over Concheror         | [Gamebanana][source-weed]    | Makes the Concheror horn into a weed blunt.
