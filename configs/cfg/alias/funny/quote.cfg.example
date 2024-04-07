@@ -1,0 +1,10 @@
+alias q_00 "say Quote 1; qt"
+alias q_01 "say Quote 2; qt"
+alias q_02 "say Quote 3; qt"
+
+alias qt_00 "alias quote q_01; alias qt qt_01"
+alias qt_01 "alias quote q_02; alias qt qt_02"
+alias qt_02 "alias quote q_03; alias qt qt_00"
+alias qt qt_00
+
+alias quote q_00
